@@ -1,0 +1,14 @@
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\text_file_chunks\text_file_chunks\bin\Debug\text_file_chunks.exe.config
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\text_file_chunks\text_file_chunks\bin\Debug\text_file_chunks.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\text_file_chunks\text_file_chunks\bin\Debug\text_file_chunks.pdb
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\text_file_chunks\text_file_chunks\obj\Debug\text_file_chunks.csprojAssemblyReference.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\text_file_chunks\text_file_chunks\obj\Debug\text_file_chunks.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\text_file_chunks\text_file_chunks\obj\Debug\text_file_chunks.exe
+C:\Users\aaron\Documents\Visual Studio 2017\Projects\text_file_chunks\text_file_chunks\obj\Debug\text_file_chunks.pdb
+C:\Users\aaron\Desktop\Projects\text_file_chunks\text_file_chunks\bin\Debug\text_file_chunks.exe.config
+C:\Users\aaron\Desktop\Projects\text_file_chunks\text_file_chunks\bin\Debug\text_file_chunks.exe
+C:\Users\aaron\Desktop\Projects\text_file_chunks\text_file_chunks\bin\Debug\text_file_chunks.pdb
+C:\Users\aaron\Desktop\Projects\text_file_chunks\text_file_chunks\obj\Debug\text_file_chunks.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Desktop\Projects\text_file_chunks\text_file_chunks\obj\Debug\text_file_chunks.exe
+C:\Users\aaron\Desktop\Projects\text_file_chunks\text_file_chunks\obj\Debug\text_file_chunks.pdb
+C:\Users\aaron\Desktop\Projects\text_file_chunks\text_file_chunks\obj\Debug\text_file_chunks.csprojAssemblyReference.cache
